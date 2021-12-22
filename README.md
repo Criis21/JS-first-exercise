@@ -1,26 +1,45 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+<p align="center">
+	<img
+		width="300"
+		alt="4Geeks Academy"
+		src="https://github.com/4GeeksAcademy/About-4Geeks-Academy/blob/master/site/static/background_art.jpg?raw=true">
+</p>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+<h1 align="center">Welcome to 4Geeks Academy</h1>
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
 
-## What to do next?
+<h3 align="center">&lt;First JavaScript exercise&gt;</h3>
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+## Content
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+1. Language
+2. Project instructions
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+## 👩‍💻Language
+<p>This project contains:</p>
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+<ol>
+    <li>JAVASCRIPT</li>
+</ol>
+
+## 📝Proyect instructions 
+  You have to take into account the following rules:
+  <ul>
+    <li>The code must be documented</li>
+    <li>Declarative programming is prohibited</li>
+    <li>Must be separated into functions</li>
+    <li>Objects cannot be used</li>
+    <li>It is mandatory to use functional programming</li>
+    <li>All names of variables and functions in English</li>
+    <li>Camel-case writing</li>
+</ul>
+
+These are the exercises:
+<ul>
+    <li>You need to created another function that counts the number of repetitions of letters in each array</li>
+    <li>Suppress repetitions in an array and return the array without the repetition</li>
+    <li>Function that inverts all values of the array</li>  
+ </ul>
+  
+
