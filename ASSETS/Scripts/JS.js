@@ -4,7 +4,7 @@ let nothing = ["Jeferson", "Matilda", "R@fael", "1van", "Pep3", "Loquesea", "Fel
 
 
 
-//Filtro de array
+//Array filter
 
 function clearData(array) {
   let newArray = [];
@@ -21,8 +21,8 @@ console.log(clearData(nothing));
 
 
 
-//Primer ejercicio
-// Crear otra funcion que cuente el numero de repeticiones de letras en cada array
+//First exercise
+//You need to created another function that counts the number of repetitions of letters in each array
 
 function CountNumber(array) {
   let response = {};
@@ -47,8 +47,8 @@ console.log(CountNumber(nothing));
 
 
 
-//Segundo ejercicio
-//Function que invierta todos los valores de el array
+//Second exercise
+//Function that inverts all values of the array
 
 function revertValuesOfAnArray(array) {
   let response = [];
@@ -73,8 +73,8 @@ console.log(revertValuesOfAnArray(nothing));
 
 
 
-//Tercer ejercicio
-//Suprimir repeticiones en un array y devolver el array sin la repeticion
+//Third exercise
+//Suppress repetitions in an array and return the array without the repetition
 
 const deleteRepetitions = (array) => {
   let repetition = [];
